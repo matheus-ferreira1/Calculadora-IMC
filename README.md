@@ -1,5 +1,4 @@
 # Calculadora de Índice de Massa Corporal
-[Link para a aplicação](https://github.com/matheus-ferreira1/Calculadora-IMC/blob/main/calc-imc.html)
 
 Calculadora de IMC desenvolvida com HTML5, CSS3, Bootstrap 4 e JavaScript. Última atualização incluiu efeitos nos botões e alinhamento central.
 
