@@ -1,9 +1,13 @@
 # Calculadora de Índice de Massa Corporal
 
-Calculadora de IMC desenvolvida com HTML5, CSS3, Bootstrap 4 e JavaScript. Última atualização incluiu efeitos nos botões e alinhamento central.
+Calculadora de IMC desenvolvida para colocar em prática os conhcecimentos de HTML, CSS e JavaScript adquiridos durante a minha jornada como desenvolvedor.
 
-### Desafios:
-Um dos maiores problemas que tive que solucionar neste projeto foi fazer com que o local do resultado não mostrasse o resultado NaN, quando não fosse inserido um dos inputs necessários. Primeiramente consegui fazer com que um popup aparecesse ao tentar calcular com um ou os dois campos vazios, porém o erro persistia. Após um momento olhando o código, veio a idéia de colocar todo o código de cálculo no 'else' da condição para que os campos sejam obrigatórios.
+O objetivo deste projeto é a criação de uma calculadora de índice de massa corporal, semelhante as calculadoras disponíveis na WEB. Continuo implementando novas soluções no projeto conforme bugs são percebidos ou quando surgem novas ideias.
 
-#### Disclaimer
-A codificação deste projeto pode não seguir o padrão ES6. O desenvolvimento deste projeto foi feito após iniciar meus estudos em JavaScript. No curso que estou fazendo (Desenvolvimento Web), primeiro é apresentado o conteúdo JavaScript e somente depois a atualização para ES6.
+##
+
+##### Atualização (15/mar/2022)
+Criação de uma tabela com as referências para o resultado da calculadora. Correção na lógica para permitir que o usuário dê inputs de vírgulas ou pontos, sem alteração da execução do script. Também foi adicionada funcionalidade que altera a cor do background do resultado, permitindo que o usuário identifique mais facilmente em qual posição da escala o mesmo se encontra.
+
+##### Atualização (28/fev/2022)
+Alteração e refinamento da lógica para impedir que fosse mostrada na tela a mensagem de "NaN". Alterações de efeitos nos botões e alinhamento central.
